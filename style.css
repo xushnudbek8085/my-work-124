@@ -1,0 +1,54 @@
+.parent{
+    display: grid;
+    padding: 20px;
+    gap: 20px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto auto;
+    height: 400px;
+}
+.item1{
+    background-color: aqua;
+    color: white;
+    grid-column: 1/4;
+    text-align: center;
+}
+.item2{
+    background-color:orange ;
+    color: white;
+    text-align: center;
+}
+.item3{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.item4{
+    background-color:yellow ;
+    color: white;
+    text-align: center;
+}
+.item5{
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+.item6{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.item7{
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+.item8{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+}
+.item9{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
